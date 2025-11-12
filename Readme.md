@@ -1,6 +1,6 @@
 # Личный проект «{{projectTitle}}»
 
-* Студент: [{{userName}}]({{userProfile}}).
+* Студент: [{{Марина Момотенко}}]({{https://htmlacademy.ru/profile/id2595367}}).
 * Наставник: `Неизвестно`.
 
 ---
